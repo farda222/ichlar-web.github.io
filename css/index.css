@@ -58,17 +58,17 @@ body {
   list-style: none;
   text-decoration: none;
   font-size: 2.5vh;
-  margin-left: 105vh;
+  margin-left: 80vh;
   margin-top: 30vh;
   position: absolute;
   background-color: #ffffff00;
   border: 2px solid #fff;
-  width: 5vh;
-  height: 5vh;
+  width: 20vh;
+  height: 7vh;
   align-items: center;
   justify-content: center;
   display: flex;
-  border-radius: 100px;
+  border-radius: 10px;
   transition: 0.5s;
   z-index: -2;
 }
@@ -78,13 +78,13 @@ body {
   list-style: none;
   text-decoration: none;
   font-size: 2.5vh;
-  margin-left: 105vh;
+  margin-left: 80vh;
   margin-top: 30vh;
   position: absolute;
   background-color: #ffffff;
   border: 2px solid #fff;
-  width: 5vh;
-  height: 5vh;
+  width: 20vh;
+  height: 7vh;
   align-items: center;
   justify-content: center;
   display: flex;
@@ -290,4 +290,10 @@ input[type="checkbox"] {
     margin-left: 3vh;
     margin-top: 3vh;
   }
+}
+/* Kode untuk layar dengan ukuran lebih besar atau sama dengan 1024 x 720 */
+@media (min-width: 1024px) {
+   {
+    
+  }
 }
