@@ -58,7 +58,7 @@ body {
   list-style: none;
   text-decoration: none;
   font-size: 2.5vh;
-  margin-left: 50vh;
+  margin-left: 56vh;
   margin-top: 30vh;
   position: absolute;
   background-color: #ffffff00;
@@ -78,7 +78,7 @@ body {
   list-style: none;
   text-decoration: none;
   font-size: 2.5vh;
-  margin-left: 50vh;
+  margin-left: 56vh;
   margin-top: 30vh;
   position: absolute;
   background-color: #ffffff;
@@ -335,7 +335,7 @@ input[type="checkbox"] {
     list-style: none;
     text-decoration: none;
     font-size: 2.5vh;
-    margin-left: 50vh;
+    margin-left: 56vh;
     margin-top: 30vh;
     position: absolute;
     background-color: #ffffff00;
@@ -354,7 +354,7 @@ input[type="checkbox"] {
     list-style: none;
     text-decoration: none;
     font-size: 2.5vh;
-    margin-left: 50vh;
+    margin-left: 56vh;
     margin-top: 30vh;
     position: absolute;
     background-color: #ffffff00;
