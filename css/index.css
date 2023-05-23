@@ -328,7 +328,7 @@ input[type="checkbox"] {
     margin-top: 3vh;
   }
 }
-@media (min-width: 1024px) {
+@media (max-width: 1024px) and (max-height: 768px) {
   .button a {
     color: #fff;
     list-style: none;
