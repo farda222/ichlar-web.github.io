@@ -78,7 +78,15 @@ body {
 @media (min-width: 1024px) {
     .content {
         margin-left: 15vh;
-        margin-top: -15vh;
+        margin-top: -10vh;
+    }
+    .image {
+        margin-left: 50vh;
+        margin-top: 30vh;
+    }
+    .image img {
+        width: 60vh;
+        height: 45vh;
     }
 }
 @media (min-width: 321px) and (max-width: 768px) {
