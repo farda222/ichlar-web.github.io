@@ -312,11 +312,11 @@ input[type="checkbox"] {
     height: 50vh;
   }
   .button a {
-    margin-right: 40vh;
+    margin-right: 60vh;
     margin-top: 10vh;
   }
   .button a:hover {
-    margin-right: 40vh;
+    margin-right: 60vh;
     margin-top: 10vh;
   }
   .wrapper {
