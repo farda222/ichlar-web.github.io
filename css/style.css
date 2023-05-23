@@ -75,7 +75,7 @@ body {
     width: 120vh;
     height: 65vh;
 }
-@media (min-width: 1024px) {
+@media (max-width: 1024px) and (max-height: 768px) {
     .content {
         margin-left: 10vh;
         margin-top: -10vh;
