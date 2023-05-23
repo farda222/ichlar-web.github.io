@@ -82,10 +82,10 @@ body {
     }
     .image {
         margin-left: 50vh;
-        margin-top: 30vh;
+        margin-top: 10vh;
     }
     .image img {
-        width: 60vh;
+        width: 65vh;
         height: 45vh;
     }
 }
