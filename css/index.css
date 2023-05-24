@@ -283,21 +283,3 @@ input[type="checkbox"] {
     margin-top: 3vh;
   }
 }
-@media (max-width: 1024px) and (max-height: 768px) {
-  .container {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-    }
-
-    /* Gaya untuk tombol */
-    .button {
-      padding: 15px 30px;
-      font-size: 18px;
-      border-radius: 5px;
-      background-color: #4CAF50;
-      color: white;
-      text-decoration: none;
-    }
-}
