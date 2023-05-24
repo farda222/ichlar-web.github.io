@@ -266,14 +266,23 @@ input[type="checkbox"] {
     width: 50vh;
     height: 50vh;
   }
-  .button a {
-    margin-right: 60vh;
-    margin-top: 10vh;
-  }
-  .button a:hover {
-    margin-right: 60vh;
-    margin-top: 10vh;
-  }
+  .container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin-top: -20vh;
+    }
+
+    /* Gaya untuk tombol */
+    .button {
+      padding: 15px 30px;
+      font-size: 18px;
+      border-radius: 5px;
+      border: 1px solid #fff;
+      color: white;
+      text-decoration: none;
+    }
   .wrapper {
     margin-left: 33vh;
     margin-top: -27.3vh;
