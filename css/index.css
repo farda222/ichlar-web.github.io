@@ -59,7 +59,7 @@ body {
   font-size: 2.5vh;
   margin-left: 80vh;
   margin-top: 30vh;
-  position: absolute;
+  position: relative;
   background-color: #ffffff00;
   border: 2px solid #fff;
   width: 20vh;
@@ -79,7 +79,7 @@ body {
   font-size: 2.5vh;
   margin-left: 80vh;
   margin-top: 30vh;
-  position: absolute;
+  position: relative;
   background-color: #ffffff;
   border: 2px solid #fff;
   width: 20vh;
@@ -335,7 +335,7 @@ input[type="checkbox"] {
     font-size: 2.5vh;
     margin-left: 56vh;
     margin-top: 30vh;
-    position: absolute;
+    position: relative;
     background-color: #ffffff00;
     border: 2px solid #fff;
     width: 20vh;
@@ -354,7 +354,7 @@ input[type="checkbox"] {
     font-size: 2.5vh;
     margin-left: 56vh;
     margin-top: 30vh;
-    position: absolute;
+    position: relative;
     background-color: #fff;
     border: 2px solid #fff;
     width: 20vh;
