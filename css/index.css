@@ -52,7 +52,12 @@ body {
   overflow-y: hidden;
   background-color: rgb(0, 0, 0);
 }
-
+.container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
 .button a {
   color: #fff;
   list-style: none;
@@ -201,6 +206,12 @@ input[type="checkbox"] {
     overflow-x: hidden;
     overflow-y: hidden;
   }
+  .container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
   .button a {
     color: #fff;
     list-style: none;
@@ -311,6 +322,12 @@ input[type="checkbox"] {
     width: 50vh;
     height: 50vh;
   }
+  .container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
   .button a {
     margin-right: 60vh;
     margin-top: 10vh;
@@ -329,12 +346,18 @@ input[type="checkbox"] {
   }
 }
 @media (max-width: 1024px) and (max-height: 768px) {
+  .container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
   .button a {
     color: #fff;
     list-style: none;
     text-decoration: none;
     font-size: 2.5vh;
-    margin-left: 63vh;
+    margin-left: 56vh;
     margin-top: 30vh;
     position: absolute;
     background-color: #ffffff00;
@@ -353,7 +376,7 @@ input[type="checkbox"] {
     list-style: none;
     text-decoration: none;
     font-size: 2.5vh;
-    margin-left: 63vh;
+    margin-left: 56vh;
     margin-top: 30vh;
     position: absolute;
     background-color: #fff;
@@ -369,7 +392,13 @@ input[type="checkbox"] {
   }
 }
 @media (max-width: 1024px) and (max-height: 720px) {
-      .button a {
+  .container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    } 
+  .button a {
     color: #fff;
     list-style: none;
     text-decoration: none;
@@ -409,7 +438,13 @@ input[type="checkbox"] {
   }
 }
 @media (max-width: 1280px) and (max-height: 720px) {
-      button a {
+  .container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    } 
+  .button a {
     color: #fff;
     list-style: none;
     text-decoration: none;
