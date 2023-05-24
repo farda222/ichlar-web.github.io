@@ -190,7 +190,7 @@ input[type="checkbox"] {
       padding: 15px 30px;
       font-size: 18px;
       border-radius: 5px;
-      background-color: #4CAF50;
+      border: 1px solid #fff;
       color: white;
       text-decoration: none;
     }
