@@ -268,7 +268,7 @@ input[type="checkbox"] {
   }
   .planet {
     display: flex;
-    margin-top: -20vh;
+    margin-top: -10vh;
     overflow-x: hidden;
     overflow-y: hidden;
     width: 50vh;
