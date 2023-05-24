@@ -52,23 +52,45 @@ body {
   overflow-y: hidden;
   background-color: rgb(0, 0, 0);
 }
-.container {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin-top: -20vh;
-    }
+.button a {
+  color: #fff;
+  list-style: none;
+  text-decoration: none;
+  font-size: 2.5vh;
+  margin-left: 80vh;
+  margin-top: 30vh;
+  position: relative;
+  background-color: #ffffff00;
+  border: 2px solid #fff;
+  width: 20vh;
+  height: 7vh;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  border-radius: 10px;
+  transition: 0.5s;
+  z-index: -2;
+}
 
-    /* Gaya untuk tombol */
-    .button {
-      padding: 15px 30px;
-      font-size: 18px;
-      border-radius: 5px;
-      border: 1px solid #fff;
-      color: white;
-      text-decoration: none;
-    }
+.button a:hover {
+  color: #000000;
+  list-style: none;
+  text-decoration: none;
+  font-size: 2.5vh;
+  margin-left: 80vh;
+  margin-top: 30vh;
+  position: relative;
+  background-color: #ffffff;
+  border: 2px solid #fff;
+  width: 20vh;
+  height: 7vh;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  border-radius: 10px;
+  transition: 0.5s;
+  z-index: -2;
+}
 .roll {
   background: transparent;
 }
